@@ -1,0 +1,54 @@
+{
+  "listings": [
+    {
+      "detailedInfo": {
+        "keyDetails": [
+          {
+            "key": "Status",
+            "value": "Coming Soon"
+          },
+          {
+            "key": "Days on Market",
+            "value": "-"
+          },
+          {
+            "key": "Rental Incentives",
+            "value": "-"
+          },
+          {
+            "key": "Available Date",
+            "value": "03/15/2022"
+          },
+          {
+            "key": "Lease Term",
+            "value": "12 months"
+          },
+          {
+            "key": "Furnished",
+            "value": "-"
+          },
+          {
+            "key": "Total Rooms",
+            "value": "3.0"
+          },
+          {
+            "key": "Compass Type",
+            "value": "Co-op"
+          },
+          {
+            "key": "MLS Type",
+            "value": "-"
+          },
+          {
+            "key": "Year Built",
+            "value": "1930"
+          },
+          {
+            "key": "County",
+            "value": "New York County"
+          }
+        ]
+      }
+    }
+  ]
+}
